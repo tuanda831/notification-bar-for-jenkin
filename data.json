@@ -1,0 +1,12 @@
+{
+  "notification": [
+    {
+      "id": "1",
+      "type": "p0",
+      "message": "The message from charlie, We have release new version",
+      "metadata": {
+        "link": "https://wiooh.com/release-announcements/1.0.0"
+      }
+    }
+  ]
+}
