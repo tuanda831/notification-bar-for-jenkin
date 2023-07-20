@@ -2,8 +2,16 @@
   "notification": [
     {
       "id": "1",
-      "type": "p0",
+      "type": 0,
       "message": "The message from charlie, We have release new version",
+      "metadata": {
+        "link": "https://wiooh.com/release-announcements/1.0.0"
+      }
+    },
+    {
+      "id": "2",
+      "type": 1,
+      "message": "The message from charlie, this is the second message",
       "metadata": {
         "link": "https://wiooh.com/release-announcements/1.0.0"
       }
